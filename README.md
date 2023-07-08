@@ -22,7 +22,7 @@
   network SDK.
 
 Other:
-- [mst](https://gitlab.com/gkaz/mst) -- "Multi-Seat Tookit" that allows to
+- [mst](https://gitlab.com/gkaz/mst) – "Multi-Seat Tookit" that allows to
   create multi-seat configurations using graphical interface. I'm developing
   this project as part of my job at ["AZ" Company Group
   LLC](https://www.gkaz.ru/).
