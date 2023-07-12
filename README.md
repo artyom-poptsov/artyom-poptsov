@@ -12,6 +12,8 @@
   for working with CSV/DSV data.
 - [Guile-PNG](https://github.com/artyom-poptsov/guile-png) – Portable Network
   Graphics (RFC2083) library.
+- [Guile-INI](https://github.com/artyom-poptsov/guile-ini) – A GNU Guile library
+  for working with [INI format](https://en.wikipedia.org/wiki/INI_file).
 - [Guile-ICS](https://github.com/artyom-poptsov/guile-ics) – iCalendar (RFC5545)
   format parser for GNU Guile.
 - [Guile-Udev](https://github.com/artyom-poptsov/guile-udev) – GNU Guile
