@@ -31,3 +31,6 @@ Other:
 
 You can find my CV [here](https://memory-heap.org/~avp/cv.html) or
 [here](https://github.com/artyom-poptsov/memory-heap.org/blob/master/cv.org).
+
+My personal website is also [available on
+IPFS](http://ipfs.io/ipfs/QmS8daA9oTWenskuEKoLKEakCkvEgmyRhvae66wGkqFRCM).
