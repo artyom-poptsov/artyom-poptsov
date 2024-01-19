@@ -1,3 +1,6 @@
+Here's my [book on combining art and
+technology](https://github.com/artyom-poptsov/SPARC) (CC-BY-SA 4.0).
+
 [GNU Guile](https://www.gnu.org/software/guile/) projects:
 - [Guile-SSH](https://github.com/artyom-poptsov/guile-ssh) –
   [libssh](https://libssh.org/) bindings for GNU Guile.  The library is used in
