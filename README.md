@@ -37,3 +37,7 @@ You can find my CV [here](https://memory-heap.org/~avp/cv.html) or
 
 My personal website is also [available on
 IPFS](http://ipfs.io/ipfs/QmS8daA9oTWenskuEKoLKEakCkvEgmyRhvae66wGkqFRCM).
+
+If you like my work you can support me by sending some Bitcoins:
+`bc1qp7vwxnp4z05fgedfsrqeqvt89fjwnnghng0vp5`
+
