@@ -36,7 +36,7 @@ You can find my CV [here](https://memory-heap.org/~avp/cv.html) or
 [here](https://github.com/artyom-poptsov/memory-heap.org/blob/master/cv.org).
 
 My personal website is also [available on
-IPFS](http://ipfs.io/ipfs/QmS8daA9oTWenskuEKoLKEakCkvEgmyRhvae66wGkqFRCM).
+IPFS](http://ipfs.io/ipfs/QmbtYVwnYuStJnsB2ZSC4Jhy1rT3dwUyBmr7BBMkGhfg8J).
 
 If you like my work you can support me by sending some Bitcoins:
 `bc1qp7vwxnp4z05fgedfsrqeqvt89fjwnnghng0vp5`
