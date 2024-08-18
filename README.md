@@ -21,6 +21,8 @@ technology](https://github.com/artyom-poptsov/SPARC) (CC-BY-SA 4.0).
   format parser for GNU Guile.
 - [Guile-Web-Driver-NG](https://github.com/artyom-poptsov/guile-web-driver-ng) -
   WebDriver (Selenium) client for GNU Guile.
+- [Guile-QR-Code](https://github.com/artyom-poptsov/guile-qr-code) - QR Code
+  generator for GNU Guile.
 - [Guile-Udev](https://github.com/artyom-poptsov/guile-udev) – GNU Guile
   bindings to libudev.
 - [Guile-GitLab](https://github.com/artyom-poptsov/guile-gitlab) – GNU Guile
