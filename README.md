@@ -1,5 +1,6 @@
 Here's my [book on combining art and
-technology](https://github.com/artyom-poptsov/SPARC) (CC-BY-SA 4.0).
+technology](https://github.com/artyom-poptsov/SPARC) (CC-BY-SA 4.0).  Available
+in Russian and English.
 
 [GNU Guile](https://www.gnu.org/software/guile/) projects:
 - [Guile-SSH](https://github.com/artyom-poptsov/guile-ssh) –
@@ -14,21 +15,22 @@ technology](https://github.com/artyom-poptsov/SPARC) (CC-BY-SA 4.0).
   values (DSV) format parser for GNU Guile.  The library comes with a CLI tool
   for working with CSV/DSV data.
 - [Guile-PNG](https://github.com/artyom-poptsov/guile-png) – Portable Network
-  Graphics (RFC2083) library.
-- [Guile-INI](https://github.com/artyom-poptsov/guile-ini) – A GNU Guile library
-  for working with [INI format](https://en.wikipedia.org/wiki/INI_file).
-- [Guile-ICS](https://github.com/artyom-poptsov/guile-ics) – iCalendar (RFC5545)
-  format parser for GNU Guile.
+  Graphics (PNG, [RFC2083](https://www.rfc-editor.org/rfc/rfc2083)) library.
+- [Guile-INI](https://github.com/artyom-poptsov/guile-ini) – A library for
+  working with [INI format](https://en.wikipedia.org/wiki/INI_file).
+- [Guile-ICS](https://github.com/artyom-poptsov/guile-ics) – iCalendar
+  ([RFC5545](https://www.rfc-editor.org/rfc/rfc5545)) and vCard
+  (https://www.rfc-editor.org/rfc/rfc6350) format reader/writer.
 - [Guile-Web-Driver-NG](https://github.com/artyom-poptsov/guile-web-driver-ng) -
-  WebDriver (Selenium) client for GNU Guile.
+  WebDriver (Selenium) client.
 - [Guile-QR-Code](https://github.com/artyom-poptsov/guile-qr-code) - QR Code
-  generator for GNU Guile.
-- [Guile-Udev](https://github.com/artyom-poptsov/guile-udev) – GNU Guile
-  bindings to libudev.
-- [Guile-GitLab](https://github.com/artyom-poptsov/guile-gitlab) – GNU Guile
-  interface to GitLab CE REST API.
-- [Guile-Deck](https://github.com/artyom-poptsov/guile-deck) – GNU Guile Matrix
-  network SDK.
+  generator.
+- [Guile-Udev](https://github.com/artyom-poptsov/guile-udev) – Bindings to
+  libudev.
+- [Guile-GitLab](https://github.com/artyom-poptsov/guile-gitlab) – An interface
+  to GitLab CE REST API.
+- [Guile-Deck](https://github.com/artyom-poptsov/guile-deck) – Matrix network
+  SDK.
 
 Other:
 - [mst](https://gitlab.com/gkaz/mst) – "Multi-Seat Tookit" that allows to
