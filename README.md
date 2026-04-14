@@ -16,7 +16,7 @@ in Russian and English.
   for working with CSV/DSV data.
 - [Guile-PNG](https://github.com/artyom-poptsov/guile-png) – Portable Network
   Graphics (PNG, [RFC2083](https://www.rfc-editor.org/rfc/rfc2083)) library.
-- [Guile-PNM](https://github.com/artyom-poptsov/guile-pnm) -
+- [Guile-PNM](https://github.com/artyom-poptsov/guile-pnm) –
   [NetPBM](https://en.wikipedia.org/wiki/Netpbm) (PNM) library.
 - [Guile-INI](https://github.com/artyom-poptsov/guile-ini) – A library for
   working with [INI format](https://en.wikipedia.org/wiki/INI_file).
