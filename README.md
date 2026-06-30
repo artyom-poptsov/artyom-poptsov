@@ -36,9 +36,12 @@ in Russian and English.
 
 RISC-V and [CH32V003](https://www.wch-ic.com/products/CH32V003.html) related
 projects:
-- [CH32V003-AMG88xx](https://github.com/artyom-poptsov/ch32v003-amg88xx) -- An
+- [CH32V003 thermal
+  camera](https://github.com/artyom-poptsov/ch32v003-thermal-camera) – A simple
+  thermal camera based on CH32V003 RISC-V MCU.
+- [CH32V003-AMG88xx](https://github.com/artyom-poptsov/ch32v003-amg88xx) – An
   AMG88xx library for CH32V003.
-- [CH32V003-ST7789](https://github.com/artyom-poptsov/ch32v003-st7789) -- An
+- [CH32V003-ST7789](https://github.com/artyom-poptsov/ch32v003-st7789) – An
   ST7789 driver for CH32V003.
 
 Other:
